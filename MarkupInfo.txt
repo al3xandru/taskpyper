@@ -1,0 +1,22 @@
+
+Basic Taskpaper Syntax overview:
+"Text" : regular text comment
+
+"Text:" Heading/Category
+
+"-Text: Task 
+
+" -Text:" Sub-Task Item
+
+".* @Text" 'Target' of todo item
+
+
+Advanced Taskpaper Syntax
+
+"@date(info)": hard date format
+
+"@event:" is an event
+
+"@deadline" is a deadline
+
+"^@text:" Information on a target (alias, location, etc)
